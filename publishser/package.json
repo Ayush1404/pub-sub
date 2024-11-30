@@ -1,5 +1,5 @@
 {
-  "name": "ws-server",
+  "name": "publishser",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -12,11 +12,6 @@
   "description": "",
   "dependencies": {
     "redis": "^4.7.0",
-    "typescript": "^5.7.2",
-    "uuid": "^11.0.3",
-    "ws": "^8.18.0"
-  },
-  "devDependencies": {
-    "@types/ws": "^8.5.13"
+    "typescript": "^5.7.2"
   }
 }
